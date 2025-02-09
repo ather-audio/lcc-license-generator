@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string>
 #include <algorithm>
-
+#include <cstdint>
 #include "base64.h"
 namespace license {
 using namespace std;
